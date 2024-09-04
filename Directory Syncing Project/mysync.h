@@ -13,12 +13,6 @@
 #include <utime.h>
 #include <unistd.h>
 
-
-//  CITS2002 Project 2 2023
-//  Student1:   23620112   Hugo Smith
-//  Student2:   23723986   Cooper Thomas
-
-
 // GLOBAL PREPROCESSOR CONSTANTS
 #define OPTLIST         "ai:no:prv"
 
