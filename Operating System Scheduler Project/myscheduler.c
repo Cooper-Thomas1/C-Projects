@@ -5,10 +5,6 @@
 #include <unistd.h>
 #include <math.h>
 
-//  CITS2002 Project 1 2023
-//  Student1:   23723986   Cooper Thomas
-//  Student2:   23620112   Hugo Smith
-
 #define MAX_DEVICES                     4
 #define MAX_DEVICE_NAME                 20
 #define MAX_COMMANDS                    10
