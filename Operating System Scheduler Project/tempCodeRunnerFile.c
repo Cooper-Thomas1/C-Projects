@@ -4,11 +4,6 @@
 //  you may need other standard header files
 
 
-//  CITS2002 Project 1 2023
-//  Student1:   23723986   Cooper
-//  Student2:   12345678   Hugo
-
-
 //  myscheduler (v1.0)
 //  Compile with:  cc -std=c11 -Wall -Werror -o myscheduler myscheduler.c
 
