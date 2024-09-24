@@ -1,1 +1,1 @@
-This project simulates a single-CPU, multi-device, pre-emptive process scheduler and to evaluate its effectivess for varying job mixes.
+This project simulates the scheduling of processes on a single-CPU, multi-device system, employing a pre-emptive process scheduler.
